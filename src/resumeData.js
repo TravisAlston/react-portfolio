@@ -71,9 +71,9 @@ let resumeData = {
     ],
     "portfolio": [
     {
-        "name": "Run Buddy",
-        "description": "html and css website",
-        "imgurl": "./images/runbuddy.png",
+        "name": "Virtual Museum",
+        "description": "JQuery and API JavaScript",
+        "imgurl": "./images/virtualmuseum.png",
         "imglink": "https://github.com/TravisAlston/run-buddy"
     },
     {
