@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {BrowserRouter as Router, Switch, Rout, Link} from 'react-router-dom';
 export default class Portfolio extends Component {
-
+    
     render() {
         let resumeData = this.props.resumeData;
         return (
