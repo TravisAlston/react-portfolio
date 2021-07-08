@@ -73,43 +73,23 @@ let resumeData = {
     {
         "name": "Virtual Museum",
         "description": "JQuery and API JavaScript",
-        "imgurl": "./images/virtualmuseum.png",
-        "imglink": "https://github.com/TravisAlston/run-buddy"
+        "imgurl": "./images/virtual-museum.png",
+        "imglink": "https://github.com/RM-Evans/Virtual-Museum"
     },
     {
-        "name": "Password Generator",
-        "description": "Generates a password",
-        "imgurl": "./images/password generator.png",
-        "imglink": "https://github.com/TravisAlston/Random-password-generator"
-
-    },
-    {
-        "name": "Git it done!",
-        "description": "Finding a github repository that needs help",
-        "imgurl": "./images/git-it-done.png",
-        "imglink": "https://github.com/TravisAlston/git-it-done"
+        "name": "Plant Daddy",
+        "description": "CSS, HTML, JavaScript and MySQL",
+        "imgurl": "./images/plantdaddy.png",
+        "imglink": "https://github.com/alyssawinn/plant-daddy"
 
     },
     {
-        "name": "Code Quiz",
-        "description": "A code quiz that has a timer and leaderboards",
-        "imgurl": "images/code-quiz.png",
-        "imglink": "https://github.com/TravisAlston/code-quiz"
-
-    },{
-        "name": "To Do List",
-        "description": "Introduced to Bootstrap",
-        "imgurl": "./images/todo-list.png",
-        "imglink": "https://github.com/TravisAlston/Javids-todo-list"
+        "name": "Kitchen Buddy",
+        "description": "React, CSS, and MongoDB",
+        "imgurl": "./images/kitchen-buddy-home.png",
+        "imglink": "https://github.com/TravisAlston/Kitchen-Buddy"
 
     },
-    {
-        "name": "Zoo Keeper",
-        "description": "Makes a database full of animals and workers in a zoo",
-        "imgurl": "./images/zoo-keeper.png",
-        "imglink": "https://github.com/TravisAlston/zookeepr"
-
-    }
 ]
 
 }
