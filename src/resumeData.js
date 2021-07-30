@@ -3,16 +3,18 @@ let resumeData = {
     "name": "Travis Alston",
     "role": "Full Stack Developer",
     "linkedinId": "",
-    "roleDescription": "I create user-focused applications with creative vision using cutting edge technologies across the full stack of development.",
+    "roleDescription": " I create user-focused applications with creative vision using cutting edge technologies across the full stack of development.",
     "socialLinks": [
     {
         "name": "linkedin",
-        "url": "www.linkedin.com/in/travis-alston",
+        "url": "https://www.linkedin.com/in/travis-alston",
+        "imgurl": "Linkedin-Logo.png",
         "className": "fa fa-linkedin"
     },
     {
         "name": "github",
         "url": "https://github.com/TravisAlston",
+        "imgurl": "GitHub-Logo.png",
         "className": "fa fa-github"
     },
     
