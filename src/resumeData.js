@@ -1,3 +1,5 @@
+
+
 let resumeData = {
 "imagebaseurl": "https://github.com/TravisAlston",
     "name": "Travis Alston",
@@ -8,13 +10,13 @@ let resumeData = {
     {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/travis-alston",
-        "imgurl": "Linkedin-Logo.png",
+        "imgurl": "./images/Linkedin-Logo.png",
         "className": "fa fa-linkedin"
     },
     {
         "name": "github",
         "url": "https://github.com/TravisAlston",
-        "imgurl": "GitHub-Logo.png",
+        "imgurl": "./images/GitHub-Logo.png",
         "className": "fa fa-github"
     },
     

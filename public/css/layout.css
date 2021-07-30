@@ -39,6 +39,10 @@ header {
 }
 
 /* vertically center banner section */
+.social-links {
+   height: 50px
+}
+
 header:before {
    content: '';
    display: inline-block;
